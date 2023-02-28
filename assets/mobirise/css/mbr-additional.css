@@ -2433,9 +2433,7 @@ a {
   }
 }
 .cid-sFHoAfPmXB {
-  padding-top: 21rem;
-  padding-bottom: 16rem;
-  background-image: url("../../../assets/images/utazaskatalogus-tenerife-latnivalok-tengerpartok-900x675.jpg");
+  background-image: url("../../../assets/images/tenerife-weblap-hat-1920x1080.png");
 }
 .cid-sFHoAfPmXB .image-wrap img {
   width: 100%;
@@ -2544,15 +2542,10 @@ a {
     padding: 2rem;
   }
 }
-.cid-twwRLYqWOw {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #bfe7ed;
-}
 .cid-twwENjKsN5 {
   padding-top: 2rem;
   padding-bottom: 0rem;
-  background-color: #ffb5b5;
+  background-image: url("../../../assets/images/mbr-1-1920x1278.jpg");
 }
 .cid-twwENjKsN5 .mbr-fallback-image.disabled {
   display: none;
@@ -2568,24 +2561,59 @@ a {
 }
 .cid-twwENjKsN5 .mbr-section-title {
   text-align: left;
+  color: #232323;
 }
 .cid-twwENjKsN5 .mbr-section-subtitle {
   text-align: left;
 }
-.cid-twvwbNc5h4 {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  background-color: #bfe7ed;
+.cid-txbov022cB {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/mbr-1256x843.jpg");
 }
-.cid-twvwYJvZy3 {
-  padding-top: 3rem;
-  padding-bottom: 1rem;
-  background-color: #ffb5b5;
+.cid-txbov022cB .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-txbov022cB .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-txbov022cB .card {
+  border-radius: 0;
+}
+@media (min-width: 992px) {
+  .cid-txbov022cB .card {
+    border-right: 1px solid white;
+  }
+}
+@media (max-width: 991px) {
+  .cid-txbov022cB .card {
+    border-right: 0px;
+    border-bottom: 1px solid white;
+  }
+}
+.cid-txbov022cB .wrapper {
+  padding: 30px 0;
+}
+.cid-txbov022cB .mbr-section-title {
+  color: #fafafa;
+}
+.cid-txbov022cB .mbr-text,
+.cid-txbov022cB .mbr-section-btn {
+  color: #fafafa;
+}
+.cid-txbov022cB H3 {
+  color: #fafafa;
 }
 .cid-twvL9bXTJM {
   padding-top: 4rem;
   padding-bottom: 2rem;
-  background-image: url("../../../assets/images/549-euro-hatter-2000x2000.png");
+  background-image: url("../../../assets/images/mbr-1920x1513.jpg");
 }
 .cid-twvL9bXTJM .mbr-fallback-image.disabled {
   display: none;
@@ -2665,7 +2693,7 @@ a {
 .cid-twvBbiXCt6 {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #ffb5b5;
+  background-image: url("../../../assets/images/mbr-1920x1513.jpg");
 }
 .cid-twvBbiXCt6 .mbr-fallback-image.disabled {
   display: none;
@@ -2746,7 +2774,7 @@ a {
 .cid-twvywhcsCg {
   padding-top: 4rem;
   padding-bottom: 2rem;
-  background-color: #ffb5b5;
+  background-image: url("../../../assets/images/mbr-1-1920x1280.jpg");
 }
 .cid-twvywhcsCg .mbr-fallback-image.disabled {
   display: none;
@@ -2761,11 +2789,11 @@ a {
   top: 0;
 }
 .cid-twvywhcsCg .number-wrap {
-  color: #0b2f42;
+  color: #ffe161;
   text-align: center;
 }
 .cid-twvywhcsCg .number {
-  color: #2299aa;
+  color: #ffffff;
 }
 .cid-twvywhcsCg .period {
   display: block;
@@ -2806,6 +2834,9 @@ a {
 .cid-twvywhcsCg .icons-menu .soc-item .mbr-iconfont:hover {
   background-color: #40b0bf;
   color: #ffffff;
+}
+.cid-twvywhcsCg H3 {
+  color: #fafafa;
 }
 .cid-twvH0O9F5d {
   padding-top: 2rem;
